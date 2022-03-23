@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    position: fixed;
+    background-color: aqua;
+}
+
+.nav{
+   float: left; 
+}
+
+.image {
+
+}
