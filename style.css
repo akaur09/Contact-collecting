@@ -1,16 +1,21 @@
 *{
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .header {
     position: fixed;
     background-color: aqua;
+    width: 100%;
 }
 
 .nav{
-   float: left; 
+    text-align: right;
+    z-index: 2;
 }
 
-.image {
-
+li{
+    display: inline;
+    padding: 5px;
 }
+
